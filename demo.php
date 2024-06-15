@@ -1,3 +1,4 @@
+//just for testing didn't use this file
 <?php
 // CONNECTION
 $host = "localhost";
